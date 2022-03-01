@@ -1,12 +1,10 @@
-## Welcome to GitHub Pages
+## 欢饮来到吴洪宇的个人主页
 
-You can use the [editor on GitHub](https://github.com/whybuaa/why.github.com/edit/gh-pages/index.md) to maintain and preview the content for your website in Markdown files.
+北京航空航天大学计算机学院、虚拟实现技术与系统国家重点实验室。
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+### 研究方向
 
-### Markdown
-
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+虚拟现实、计算机图形学、医学影像建模、虚拟手术仿真
 
 ```markdown
 Syntax highlighted code block
